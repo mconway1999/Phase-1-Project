@@ -5,6 +5,12 @@
             "name":"burger",
             "price":"9.25",
             "img":"https://www.washingtonpost.com/wp-apps/imrs.php?src=https%3A%2F%2Farc-anglerfish-washpost-prod-washpost.s3.amazonaws.com%2Fpublic%2FM6HASPARCZHYNN4XTUYT7H6PTE.jpg?h=982&w=1200"
+        },
+        {
+            "id": 2,
+            "name": "burrito",
+            "price":8.99,
+            "img":"images/burrito-photo.png"
         }
     ]
 
