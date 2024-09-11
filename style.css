@@ -1,3 +1,20 @@
 body {
     text-align: center;
 }
+
+img{
+    height: 150px;
+}
+.detail-container {
+    position: absolute;
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 10px;
+    display: none;
+    z-index: 1000;
+}
+
+.detail-image {
+    position: relative;
+}
+

@@ -1,24 +1,39 @@
 {
-    "food":[
-        {
-            "id": 1, 
-            "name":"burger",
-            "price":"9.25",
-            "img":"images/burger-photo.png"
-        },
-        {
-            "id": 2,
-            "name": "burrito",
-            "price":8.99,
-            "img":"images/burrito-photo.png"
-        },
-        {
-            "id": 3,
-            "name": "french toast",
-            "price": "6.99",
-            "img": "images/french-toast.png"
-        }
-
-    ]
-
+  "groceries": [
+    {
+      "id": "1",
+      "name": "Apples",
+      "price": 3.49,
+      "img": "images/Apples_In_Bag.png",
+      "category": "Produce"
+    },
+    {
+      "id": "2",
+      "name": "Cheerios",
+      "price": 3.89,
+      "img": "images/Cheerios.png",
+      "category": "Grain"
+    },
+    {
+      "id": "3",
+      "name": "Frozen Pizza",
+      "price": 5.29,
+      "img": "images/Frozen_Pizza.png",
+      "category": "Frozen"
+    },
+    {
+      "id": "4",
+      "name": "Paper Towel",
+      "price": 3.99,
+      "img": "images/Paper_Towel.png",
+      "category": "Household"
+    },
+    {
+      "id": "5",
+      "name": "Chicken Nuggets",
+      "price": 4.29,
+      "img": "images/Frozen_Nuggets.png",
+      "category": "Frozen"
+    }
+  ]
 }
